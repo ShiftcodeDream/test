@@ -6,3 +6,9 @@ git push -> pousse les derniers commit sur le serveur
 
 git pull -> Récupère les fichiers du serveur git
 
+Etapes :
+ - Créer un fork du projet
+ - Créer une nouvelle branche
+ - Faire ses modifs et les commit
+ - Ouvrir un pull request sur le projet original
+
