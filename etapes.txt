@@ -3,9 +3,6 @@ un repo git s'appelle https://github.com/ShiftcodeDream/test.git
 Yo man, what'sup?
 
 git push -> pousse les derniers commit sur le serveur
-git push -> pousse les derniers commit sur le serveur
-
-git pull -> Récupère les fichiers du serveur git
 
 git pull -> Récupère les fichiers du serveur git
 
